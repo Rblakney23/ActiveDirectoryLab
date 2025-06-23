@@ -47,10 +47,12 @@ Set the DNS server on the client machine to point to the DC's private IP.
 <img src="https://i.imgur.com/46ZxkYP.png" alt="lab overview"/>
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>In-Depth Deployment and Configuration Steps</h2>
+Once Active Directory Domain Services is installed and the VM is promoted to be the DC, "mydomain.com" was configured as a new forest. After restarting and logging back into the DC VM as "mydomain.com\labuser", you should have access to the AD Users and Computers. 
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XeKEhk2.png" height="80%" width="80%" alt="AD-users&computers"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
