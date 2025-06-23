@@ -48,7 +48,7 @@ Set the DNS server on the client machine to point to the DC's private IP.
 
 
 <h2>In-Depth Deployment and Configuration Steps</h2>
-Once Active Directory Domain Services is installed and the VM is promoted to be the DC, "mydomain.com" was configured as a new forest. After restarting and logging back into the DC VM as "mydomain.com\labuser", you should have access to the AD Users and Computers. 
+Once Active Directory Domain Services is installed and the VM is promoted to be the DC, "mydomain.com" was configured as a new forest. After restarting and logging back into the DC VM as "mydomain.com\labuser", you should have access to AD Users and Computers. 
 
 
 <p>
