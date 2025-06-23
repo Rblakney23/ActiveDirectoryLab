@@ -23,7 +23,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2)
 
 <h2>Lab Overview</h2>
-![Lab Topology](labOverview.png)
+<img src="/Users/rance/Desktop/IT.T/IT\ Course/Azure\ AD/labOverview.png" alt="Microsoft Active Directory Logo"/>
+
 
 <h2>Deployment and Configuration Steps</h2>
 
