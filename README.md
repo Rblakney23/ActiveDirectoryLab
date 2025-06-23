@@ -40,9 +40,9 @@ Configure the Windows 10 client to:
 Set the DNS server on the client machine to point to the DC's private IP.
 - By setting the client’s DNS server to the DC’s IP, we ensure the client uses internal DNS resolution for domain-based login and communication.
 
-This simulates a real network where all client machines rely on the internal DNS provided by the DC.
+- This simulates a real network where all client machines rely on the internal DNS provided by the DC.
 
-Because of this, the client no longer uses Azure's default DNS to resolve external domain names (like google.com). Instead, it tries to route DNS queries through the DC first.
+- Because of this, the client no longer uses Azure's default DNS to resolve external domain names (like google.com). Instead, it tries to route DNS queries through the DC first.
 
 <img src="https://i.imgur.com/46ZxkYP.png" alt="lab overview"/>
 
