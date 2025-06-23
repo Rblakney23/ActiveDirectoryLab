@@ -23,6 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2) (Client Machine)
 
 <h2>Lab Overview</h2>
+<br />
 In this lab, we simulate a real-world enterprise environment by setting up Active Directory Domain Services (AD DS) using two virtual machines hosted in Azure.
 
 
@@ -81,7 +82,7 @@ Now that Client-1 is joined to the Domain, the next part is to set up Remote Des
 <img src="https://i.imgur.com/TsX8VaG.png" height="80%" width="80%" alt="AD-remoteDesktop"/>
 </p>
 <p>
-In this next part, I used PowerShell to create additional users, and I will choose one of those users and RDP into Client-1.
+In this next part, I used PowerShell to create additional users, picked one random user to RDP into Client-1, and confirmed the successful login.
 </p>
 <br />
 
@@ -91,3 +92,7 @@ In this next part, I used PowerShell to create additional users, and I will choo
 <p>
 <img src="https://i.imgur.com/1NNidgy.png" height="80%" width="80%" alt="AD-powerShellUsers"/>
 </p>
+<p>
+<img src="https://i.imgur.com/dk4usQ7.png" height="80%" width="80%" alt="AD-userRDP"/>
+</p>
+
