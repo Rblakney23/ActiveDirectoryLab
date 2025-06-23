@@ -78,5 +78,5 @@ Now that Client-1 is joined to the Domain, the next part is to set up remote des
 <br />
 
 <p>
-<img src="https://i.imgur.com/m8PnNVm.png" height="80%" width="80%" alt="AD-joinClientDomain"/>
+<img src="https://i.imgur.com/TsX8VaG.png" height="80%" width="80%" alt="AD-remoteDesktop"/>
 </p>
