@@ -23,10 +23,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2) (Client Machine)
 
 <h2>Lab Overview</h2>
-<br />
 In this lab, we simulate a real-world enterprise environment by setting up Active Directory Domain Services (AD DS) using two virtual machines hosted in Azure.
-
-
+<br />
 Lab Objectives:
 - Configure the Windows Server VM as a Domain Controller.
 
