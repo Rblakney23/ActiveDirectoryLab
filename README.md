@@ -19,10 +19,25 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows Server 2022 (Domain Controller)
+- Windows 10 (21H2) (Client Machine)
 
 <h2>Lab Overview</h2>
+In this lab, we simulate a real-world enterprise environment by setting up Active Directory Domain Services (AD DS) using two virtual machines hosted in Azure.
+
+Lab Objectives:
+- Configure the Windows Server VM as a Domain Controller.
+
+- Promote it to a domain using Active Directory and DNS.
+
+Configure the Windows 10 client to:
+
+- Join the domain.
+
+- Authenticate using domain user accounts.
+
+Set the DNS server on the client machine to point to the DC's private IP.
+
 <img src="https://i.imgur.com/46ZxkYP.png" alt="lab overview"/>
 
 
