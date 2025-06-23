@@ -80,3 +80,11 @@ Now that Client-1 is joined to the Domain, the next part is to set up remote des
 <p>
 <img src="https://i.imgur.com/TsX8VaG.png" height="80%" width="80%" alt="AD-remoteDesktop"/>
 </p>
+<p>
+In this next part, I used PowerShell to create additional users, and I will choose one of those users and RDP into Client-1.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bVx5cRC.png" height="80%" width="80%" alt="AD-powerShellUsers"/>
+</p>
