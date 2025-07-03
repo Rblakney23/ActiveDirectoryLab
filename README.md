@@ -50,7 +50,7 @@ Once Active Directory Domain Services is installed and the VM is promoted to be 
 <img src="https://i.imgur.com/XeKEhk2.png" height="80%" width="80%" alt="AD-users&computers"/>
 </p>
 <p>
-Now we will start creating Organizational Units or "OUs". The first set of OU's will be "_EMPLOYEES" and "_ADMINS". To do that you will right-click on the domain name, select New, then Organizational Unit.
+Now we will start creating Organizational Units or "OUs". The first set of OU's will be "_EMPLOYEES" and "_ADMINS". To do that, you will right-click on the domain name, select New, then Organizational Unit.
 
 In the "_ADMINS" OU, right-click -> new -> User and create the user "Jane Doe". For the user login name, insert "jane_admin". Once that is done, add Jane to the domain admins security group. 
 </p>
