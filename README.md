@@ -47,7 +47,7 @@ Once Active Directory Domain Services is installed and the VM is promoted to be 
 
 
 <p>
-<img src="https://i.imgur.com/XeKEhk2.png" height="80%" width="80%" alt="AD-users&computers"/>
+<img src="https://i.imgur.com/XeKEhk2.png" height="80%" width="70%" alt="AD-users&computers"/>
 </p>
 <p>
 Now we will start creating Organizational Units or "OUs". The first set of OU's will be "_EMPLOYEES" and "_ADMINS". To do that, you will right-click on the domain name, select New, then Organizational Unit.
